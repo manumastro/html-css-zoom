@@ -9,9 +9,9 @@ header{
 }
 
 main{
-  height: calc(100vh - 180px);
+  height: calc(100vh - 160px);
 }
 
 footer{
-  height: 100px;
+  height: 80px;
 }
