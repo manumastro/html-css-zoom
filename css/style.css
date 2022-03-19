@@ -1,5 +1,5 @@
 
-
+/* MAIN */
 main .box{
   height: 100%;
   margin: 0 auto;
@@ -34,3 +34,33 @@ main .box .img .name-mic{
 main .box .img .name-mic span{
   font-size: 0.85rem;
 }
+/* /MAIN */
+
+/* FOOTER */
+footer{
+  justify-content: space-between;
+  background-color: black;
+}
+
+footer .box{
+  height: 100%;
+}
+footer .box-sinistro ul{
+  padding-left: 20px;
+}
+footer .fa-microphone, footer .fa-video{
+  font-size: 1.8rem;
+  padding-bottom: 6px;
+}
+
+footer li a.d-flex{
+  flex-direction: column;
+}
+
+footer li a span{
+  font-size: 0.9rem;
+}
+
+
+
+/* /FOOTER */
