@@ -33,3 +33,6 @@ a{
   color: white;
 }
 
+.fa-solid.active{
+  color: #4ac700;
+}
