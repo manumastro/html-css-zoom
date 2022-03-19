@@ -39,7 +39,7 @@ main .box .img .name-mic span{
 /* FOOTER */
 footer{
   justify-content: space-between;
-  background-color: black;
+  background-color: #222222;
 }
 
 footer .box{
@@ -66,6 +66,7 @@ footer li a span{
 }
 /* /BOX SINISTRO */
 
+/* BOX CENTRALE */
 footer .box-centrale li{
   padding-right: 20px;
 }
@@ -73,4 +74,18 @@ footer .box-centrale li{
 footer .box-centrale .fa-chevron-up{
   font-size: 0.6rem;
 }
+/* /BOX CENTRALE */
+
+
+/* /BOX DESTRO */
+footer .box-destro{
+  background-color: #4a4a4a;
+}
+footer .box-destro span{
+  color: red;
+  font-size: 0.8rem;
+  padding: 0 20px;
+}
+/* /BOX DESTRO */
+
 /* /FOOTER */
