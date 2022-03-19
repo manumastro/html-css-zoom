@@ -11,3 +11,8 @@
   align-items: center;
   justify-content: center;
 }
+
+footer .fa-style{
+  font-size: 1.8rem;
+  padding-bottom: 6px;
+}
